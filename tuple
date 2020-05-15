@@ -1,0 +1,9 @@
+#creating tuple
+tuple1 = ("apple", "orange", "mango", "strawberry")
+tuple2 = ("sony", "lg", "bosch", "panasonic")
+tuple3 = (2, 4, 6, 8, 10)
+
+#accessing elements from tuple
+print(tuple1[0])
+print(tuple2[2])
+print(tuple3[4])
