@@ -1,0 +1,14 @@
+#making lists
+numbers = [2, 4, 6, 8, 10]
+fruits = ["mango", "orange", "banana", "strawberry"]
+names = ["ross", "mike","jon", "tyrion" ]
+
+#assigning elements to lists
+numbers.append(12)
+fruits.append("apple")
+names.append("arya")
+
+#printing output
+print(numbers)
+print(fruits)
+print(names)
