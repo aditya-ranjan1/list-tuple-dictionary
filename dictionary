@@ -1,0 +1,11 @@
+#creating dictionary
+myDict = {
+    "C" : "Easy",
+    "C++" : "Moderate",
+    "Java" : "Tough",
+    "python" : "Cool"
+}
+
+#deleting element from dictionary
+del myDict["C"]
+print(myDict)
